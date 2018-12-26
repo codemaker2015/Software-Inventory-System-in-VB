@@ -1,0 +1,123 @@
+[Root]
+Most Recent Package=Software Inventory System of IICT Department
+
+
+[Package|Software Inventory System of IICT Department|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Software Inventory System of IICT Department\Package
+
+[Package|Software Inventory System of IICT Department|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Software Inventory System of IICT Department|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Software Inventory System of IICT Department|Files Found]
+
+[Package|Software Inventory System of IICT Department|Files Released]
+
+[Package|Software Inventory System of IICT Department|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado21.tlb=
+
+[Package|Software Inventory System of IICT Department|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Software Inventory System of IICT Department|Files Added]
+C:\Software Inventory System of IICT Department\Software.mdb=
+
+[Package|Software Inventory System of IICT Department|Files Removed]
+
+[Package|Software Inventory System of IICT Department|Files In Project]
+C:\Software Inventory System of IICT Department\Service Chart.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado21.tlb=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\Program Files\Common Files\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Software Inventory System of IICT Department\Software.mdb=Yes
+
+[Package|Software Inventory System of IICT Department|Configure Registry Files]
+Applicable=No
+
+[Package|Software Inventory System of IICT Department|Configure Remote Servers]
+Applicable=No
+
+[Package|Software Inventory System of IICT Department|Install Locations]
+C:\Software Inventory System of IICT Department\Service Chart.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado21.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Software Inventory System of IICT Department\Software.mdb=$(AppPath)
+
+[Package|Software Inventory System of IICT Department|Configure Shared Files]
+Applicable=Yes
+C:\Software Inventory System of IICT Department\Service Chart.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Software Inventory System of IICT Department\Software.mdb=Yes
+
+[Package|Software Inventory System of IICT Department|Distribution]
+Type=single
+Size=
+Title=Software Inventory System of IICT Department
+
+[Package|Software Inventory System of IICT Department|IconGroups]
+Group0=Software Inventory System of IICT Department
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Software Inventory System of IICT Department|Software Inventory System of IICT Department]
+Icon1="Service Chart.exe"
+Title1=Software Inventory System of IICT Department
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Software Inventory System of IICT Department|Package]
+PackageFolder=C:\Software Inventory System of IICT Department\Package
+ProjectFolder=C:\Software Inventory System of IICT Department
+ServerSideCab=
+File1=C:\Software Inventory System of IICT Department\Package\setup.exe
+File2=C:\Software Inventory System of IICT Department\Package\Setup.Lst
+File3=C:\Software Inventory System of IICT Department\Package\Service Chart.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

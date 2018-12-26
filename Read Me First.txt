@@ -1,0 +1,10 @@
+Software Inventory System
+
+This will help who are beginner in Visual Basic on how to Add, Edit and Delete Records.
+
+UserName : admin
+Password : admin
+
+This system was use Microsoft Access Database.
+
+email address: codemaker2014@gmail.com

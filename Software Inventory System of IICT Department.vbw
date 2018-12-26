@@ -1,0 +1,12 @@
+frmNewClient = 0, 0, 0, 0, C, 132, 132, 826, 598, C
+frmMain = 0, 0, 0, 0, C, 154, 154, 848, 620, C
+ConnectionMods = 0, 0, 0, 0, C
+frmUser = 0, 0, 0, 0, C, 66, 66, 760, 532, C
+frmConnection = 0, 0, 0, 0, C, 22, 22, 716, 488, C
+frmlogin = 0, 0, 0, 0, C, 198, 198, 892, 664, C
+rptreport = 0, 0, 0, 0, C, 176, 176, 1200, 939, CZ
+frmsearch = 0, 0, 0, 0, C, 110, 110, 804, 576, C
+frmsummary = 0, 0, 0, 0, C, 88, 88, 782, 554, C
+frmabout = 0, 0, 0, 0, C, 0, 0, 694, 466, C
+frmcompany = 0, 0, 0, 0, C, 44, 44, 738, 510, C
+frmdeveloper = 0, 0, 0, 0, C, 22, 22, 716, 488, C

@@ -1,0 +1,5 @@
+Line 11: Property Icon in frmcompany had an invalid file reference.
+Line 53: Property TabPicture(0) in SSTab1 had an invalid file reference.
+Line 59: Property TabPicture(1) in SSTab1 had an invalid file reference.
+Line 66: Property Caption in lblDisclaimer must be a quoted string
+Line 86: Property Caption in lblDisclaimer must be a quoted string
